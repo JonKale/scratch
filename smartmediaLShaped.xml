@@ -9,7 +9,9 @@
                     <Linear>
                         <Duration>00:00:10</Duration>
                         <MediaFiles>
-                            <MediaFile/>
+                            <MediaFile delivery="progressive" type="video/mp4" bitrate="3481" width="1280" height="720" >
+                                <![CDATA[ https://v.adsrvr.org/tdpartnerid/vzbsc01/e0yej41512da9c6765d94af89db9ed2971b6b139.mp4 ]]>
+                            </MediaFile>
                         </MediaFiles>
                     </Linear>
                     <NonLinearAds>
