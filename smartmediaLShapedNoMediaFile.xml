@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VAST version="2.0">
+    <Ad id="">
+        <InLine>
+            <AdSystem>SmartX</AdSystem>
+            <AdTitle></AdTitle>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <MediaFiles>
+                            <MediaFile/>
+                        </MediaFiles>
+                    </Linear>
+                    <NonLinearAds>
+                        <TrackingEvents>
+                        </TrackingEvents>
+                        <NonLinear apiFramework="VPAID" minSuggestedDuration="00:00:10" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+                            <StaticResource creativeType="application/x-javascript"><![CDATA[https://cdn.hbbtv.smartclip.net/splitscreen.js]]></StaticResource>
+                            <AdParameters><![CDATA[geo=GB&zip=&adformat=xxl&duration=10&creativeurl=https%3A%2F%2Fcdn.smartclip.net%2Fassets%2Fatv%2F9999999%2FSplitscreen.png&left=284&;top=0&width=996&height=560]]></AdParameters>
+                        </NonLinear>
+                    </NonLinearAds>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
